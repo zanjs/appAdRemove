@@ -35,7 +35,7 @@
     "*://*.1688.com/*",
     "*://*.lifevc.com/*"
     ],
-    "js": ["js/panli.min.js", "js/log.js","js/content_action.js"],
+    "js": ["js/panli.min.js", "js/log.js","js/content_action.js","js/appcreat.min.js"],
     "css":["js/skin/pan.css"]
   }],
 

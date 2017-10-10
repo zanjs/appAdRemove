@@ -1,6 +1,6 @@
 var PLtmall = "#detail-base-smart-banner,#J_BottomSmartBanner,#J_BottomSmartBannerLink,.app-download-popup-inner,.app-download-popup";
 
-var PLtaobao = ".bottom_bar,.item-action,.J_bottomBar,.install-app,.thw-smartbanner,.openapp,.download-adv,#J_JHSDownloadBar,#J_JHSDownloadMask,.thw-promotion-app,.thw-smartbanner,.thw-detail-panel";
+var PLtaobao = "div[dpr],a[id$='_close'],a[id$='_open'],.bottom_bar,.item-action,.J_bottomBar,.install-app,.thw-smartbanner,.openapp,.download-adv,#J_JHSDownloadBar,#J_JHSDownloadMask,.thw-promotion-app,.thw-smartbanner,.thw-detail-panel";
 
 var PLElements = {
     "tmall.com": PLtmall,
