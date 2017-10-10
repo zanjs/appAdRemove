@@ -8,15 +8,9 @@ function show() {
     body: '祝你测试开心：魔法棒.'
   });
 }
-
-
-
-
 var _hostName = window.location.hostname;
 
 // if(_hostName == 'detail.m.tmall.com' || _hostName == 'h5.m.taobao.com'){
     
 // }
-
-
 show();
