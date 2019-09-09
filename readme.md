@@ -1,5 +1,7 @@
 ## Panli app webView 删除厂家广告浮动元素 开发测试调试利器
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/appAdRemove.svg)](https://greenkeeper.io/)
+
 webKit 浏览器扩展
 
 ## 遇到问题
